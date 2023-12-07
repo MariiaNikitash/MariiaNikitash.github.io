@@ -19,4 +19,4 @@ My GitHub page is https://github.com/MariiaNikitash
 
 * Lab 12
 
-This lab was my favorite because it provided hands-on experience in creating a visually appealing animation using C++ and GraphicsMagick. I enjoyed learning how to manipulate color channels, apply mathematical functions like sine waves for smooth transitions, and combine them to generate a dynamic gradient. The step-by-step instructions and clear explanations made the process enjoyable and educational, enhancing my understanding of image processing in programming.
+    This lab was my favorite because it provided hands-on experience in creating a visually appealing animation using C++ and GraphicsMagick. I enjoyed learning how to manipulate color channels, apply mathematical functions like `sin()` for smooth transitions, and combine them to generate a dynamic gradient. The step-by-step instructions and clear explanations made the process enjoyable and educational, enhancing my understanding of image processing in programming.
